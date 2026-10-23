@@ -16,7 +16,7 @@
 # How To Run:
 1. Java 17+ should be installed.
 
-2. All image assets (bg2.gif, title.png, and character icons like Alexandra.png etc.) remain in the root directory alongside the source code.
+2. All image assets (bg2.gif, title.png, and character icons like alexandra.png etc.) remain in the root directory alongside the source code.
 
 3. Run Main.java as a Java Application.
 
